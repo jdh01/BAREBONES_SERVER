@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jackd\source\repos\BAREBONES_SERVER\BAREBONES_SERVER\main.cpp(21,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\jackd\source\repos\BAREBONES_SERVER\BAREBONES_SERVER\main.cpp(120,2): warning C4551: function call missing argument list
+  BAREBONES_SERVER.vcxproj -> C:\Users\jackd\source\repos\BAREBONES_SERVER\x64\Debug\BAREBONES_SERVER.exe
